@@ -1,0 +1,10 @@
+payload:
+  # Firstrade
+  - DOMAIN-SUFFIX,firstrade.com
+  - DOMAIN-SUFFIX,firstrade.cn
+
+  # Documents
+  - DOMAIN-SUFFIX,proxyvote.com
+  - DOMAIN-SUFFIX,icsdelivery.com
+  - DOMAIN-SUFFIX,investordelivery.com
+  - DOMAIN-SUFFIX,postedge.documentmailbox.com
