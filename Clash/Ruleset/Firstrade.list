@@ -1,4 +1,5 @@
 # > Firstrade
+PROCESS-NAME,com.firstrade.android
 DOMAIN-SUFFIX,firstrade.com
 DOMAIN-SUFFIX,firstrade.cn
 
