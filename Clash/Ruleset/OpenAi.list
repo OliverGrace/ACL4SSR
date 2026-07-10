@@ -1,6 +1,8 @@
 # 内容：OpenAi
 # 来源：本地既有 OpenAi 规则 + OpenAI 官方网络建议 + v2fly domain-list-community/openai
-# 数量：51条
+# 数量：53条
+PROCESS-NAME,ChatGPT.exe
+PROCESS-NAME,codex.exe
 PROCESS-NAME,com.openai.chatgpt
 DOMAIN-KEYWORD,openai
 DOMAIN,android.chat.openai.com
