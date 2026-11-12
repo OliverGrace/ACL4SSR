@@ -1,6 +1,6 @@
 payload:
   # 内容：Claude
-  # 数量：21条
+  # 数量：20条
   - DOMAIN-KEYWORD,anthropic
   - DOMAIN-KEYWORD,claude
   - DOMAIN-SUFFIX,anthropic.com
@@ -11,8 +11,7 @@ payload:
   - DOMAIN-SUFFIX,claude.app
   - DOMAIN,m.stripe.com
   - DOMAIN,js.stripe.com
-  - DOMAIN,http-intake.logs.us5.datadoghq.com
-  - DOMAIN,browser-intake-us5-datadoghq.com
+  - DOMAIN-KEYWORD,datadoghq
   - DOMAIN-SUFFIX,events.statsigapi.net
   - DOMAIN-SUFFIX,featuregates.org
   - DOMAIN-SUFFIX,intercom.io
