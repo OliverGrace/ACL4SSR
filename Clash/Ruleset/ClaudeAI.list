@@ -1,5 +1,5 @@
 # 内容：Claude
-# 数量：20条
+# 数量：25条
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,anthropic.com
@@ -8,6 +8,11 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claude.app
+DOMAIN-SUFFIX,ip.net.coffee
+DOMAIN-SUFFIX,scamalytics.com
+DOMAIN-SUFFIX,iping.cc
+DOMAIN-SUFFIX,ippure.com
+DOMAIN-SUFFIX,ipinfo.cv
 DOMAIN,m.stripe.com
 DOMAIN,js.stripe.com
 DOMAIN-KEYWORD,datadoghq
