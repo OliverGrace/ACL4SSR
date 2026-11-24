@@ -1,5 +1,5 @@
 # 内容：Claude
-# 数量：26条
+# 数量：39条
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,anthropic.com
@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claude.app
+DOMAIN-SUFFIX,clau.de
+DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,ip.net.coffee
 DOMAIN-SUFFIX,scamalytics.com
 DOMAIN-SUFFIX,iping.cc
@@ -15,14 +17,25 @@ DOMAIN-SUFFIX,ippure.com
 DOMAIN-SUFFIX,ipinfo.cv
 DOMAIN,m.stripe.com
 DOMAIN,js.stripe.com
-DOMAIN-KEYWORD,datadoghq
+DOMAIN,maps.googleapis.com
+DOMAIN-SUFFIX,withpersona.com
+DOMAIN-SUFFIX,frompersona.com
+DOMAIN-KEYWORD,datadog
 DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-KEYWORD,sentry
+DOMAIN-KEYWORD,sift
+DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN,cdn.usefathom.com
 PROCESS-NAME,claude.exe
 PROCESS-NAME,Claude.exe
 PROCESS-NAME,claude
 PROCESS-NAME,Claude
 PROCESS-NAME,com.anthropic.claude
+GEOSITE,anthropic
+GEOSITE,category-ntp
+IP-CIDR,160.79.104.0/21,no-resolve
+IP-CIDR6,2607:6bc0::/32,no-resolve
+IP-ASN,399358,no-resolve
